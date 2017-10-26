@@ -5,7 +5,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.Button;
 
-public class Syf2Dzia³aKopia {
+public class OperacjeLogiczne2 {
 
 	MathOperations1 obj = new MathOperations1();
 	@FXML

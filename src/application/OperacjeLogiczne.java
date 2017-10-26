@@ -7,7 +7,7 @@ import javafx.scene.control.Button;
 
 //Button [][] boardButtons = new Button[3][3];
 
-public class Syf1 {
+public class OperacjeLogiczne {
 	MathOperations1 obj = new MathOperations1();
 	@FXML
 	private Label result;
